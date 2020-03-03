@@ -51,5 +51,7 @@ Temperature humdity measurements
 
 1-2 frames per sec low res video.
 
+## 5. IR Blaster
 
+Send commands to a devices that use IR (infrared) receivers.
 
