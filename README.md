@@ -55,3 +55,7 @@ Temperature humdity measurements
 
 Send commands to a devices that use IR (infrared) receivers.
 
+## 6. Sound monitor
+
+Plugged in module that analyses audio input and sends alerts.
+
